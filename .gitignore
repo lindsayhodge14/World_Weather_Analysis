@@ -1,5 +1,7 @@
 #adding config file
 config.py
+configcopy1.py
+configcopy2.py
 # adding additional files
 API_practice.ipynb
 random_numbers.ipynb
